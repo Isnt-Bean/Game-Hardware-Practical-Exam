@@ -8,25 +8,36 @@
 
 <img width="1061" height="725" alt="image" src="https://github.com/user-attachments/assets/dd3c94b2-ed61-4625-b0d6-30257acbfbb3" />
 
-Export this as a pdf?
 
 ### Bill Of Materials
 [Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx](https://github.com/user-attachments/files/26870557/Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx)
+
 ### Section 2
-<img width="1118" height="469" alt="image" src="https://github.com/user-attachments/assets/ef5a068e-a7fb-471e-8ae4-09b4545b5be1" />
+
+Forward Voltage/Forward Current
+<img width="1208" height="522" alt="image" src="https://github.com/user-attachments/assets/fdc82758-291e-4f63-a187-ae6bb32b7524" />
+
+Maximum safe current
+<img width="1207" height="503" alt="image" src="https://github.com/user-attachments/assets/9b26b2bf-762f-4e4e-9b95-a6b4516158f6" />
 
 ## Part 2
 
+### Sketch
+
+<img width="1920" height="1080" alt="Sketch" src="https://github.com/user-attachments/assets/c1dd64c9-7e49-4b5b-8e79-a5c1196a51c4" />
+
 ### Controller Creation
 
-<img width="1412" height="687" alt="image" src="https://github.com/user-attachments/assets/6ee4cbbf-995e-4145-9532-c5f5246119eb" />
-<img width="967" height="705" alt="image" src="https://github.com/user-attachments/assets/b37c4503-b3fa-45ea-8468-9df7586ae522" />
+<img width="1294" height="582" alt="image" src="https://github.com/user-attachments/assets/582277ce-baaa-43e6-beb7-d97ab89bf7fa" />
+<img width="1050" height="706" alt="image" src="https://github.com/user-attachments/assets/00105711-47c7-45f2-a97a-4969048ff6dc" />
+
 
 ### Simulation
-Video goes here
+
+https://youtu.be/lrjcG6boGiU
 
 ### Explaination
 
 The two buttons on the left signify the ability to move left and right, shown by the LED display above it. 
 The two buttons on the right signify the ability to punch with the left and right hand, with a DC motor as tactile cue for when you punch.
-The switch in the middle of the board signifies an ON/OFF switch, which allows the board to stop working if it's not clicked into position.
+The potentiometer in the middle of the board signifies the block ability, with a lower powered LED and DC motor to let the player know the block is active
