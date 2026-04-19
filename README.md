@@ -6,8 +6,8 @@
 <img width="991" height="731" alt="image" src="https://github.com/user-attachments/assets/1eae49d2-21c8-4625-a31d-2c8be67934aa" />
 <img width="928" height="584" alt="image" src="https://github.com/user-attachments/assets/a1dc5b56-83f3-4968-bade-b1c00da1001d" />
 
-<img width="1061" height="725" alt="image" src="https://github.com/user-attachments/assets/dd3c94b2-ed61-4625-b0d6-30257acbfbb3" />
-There was no option to export the technical drawing, therefore it would not let me export it as a PDF or any other file type
+<img width="1789" height="951" alt="image" src="https://github.com/user-attachments/assets/8280fe81-b9c7-4967-acfe-2ce6101a7f0f" />
+[Final Exam Practical Drawing.pdf](https://github.com/user-attachments/files/26871616/Final.Exam.Practical.Drawing.pdf)
 
 ### Bill Of Materials
 [Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx](https://github.com/user-attachments/files/26870557/Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx)
