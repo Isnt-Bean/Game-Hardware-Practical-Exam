@@ -41,4 +41,3 @@ https://youtu.be/lrjcG6boGiU
 - The two buttons on the left signify the ability to move left and right, shown by the LED display above it. Hooked directly into the LEDs with a resistor and getting power directly from the power supply
 - The two buttons on the right signify the ability to punch with the left and right hand, with a DC motor as tactile cue for when you punch. These are hooked up to the potentiometer which changes the power of the attack based on if the player is blocking attacks or not.
 - The potentiometer in the middle of the board signifies the block ability, with a lower powered LED and DC motor to let the player know the block is active. This is hooked up to the attack buttons and the DC motor by extention. This uses player input to determine if the attacks are being blocked or not.
-- 
