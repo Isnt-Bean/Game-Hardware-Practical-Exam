@@ -7,7 +7,7 @@
 <img width="928" height="584" alt="image" src="https://github.com/user-attachments/assets/a1dc5b56-83f3-4968-bade-b1c00da1001d" />
 
 <img width="1061" height="725" alt="image" src="https://github.com/user-attachments/assets/dd3c94b2-ed61-4625-b0d6-30257acbfbb3" />
-
+There was no option to export the technical drawing, therefore it would not let me export it as a PDF or any other file type
 
 ### Bill Of Materials
 [Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx](https://github.com/user-attachments/files/26870557/Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx)
@@ -38,6 +38,7 @@ https://youtu.be/lrjcG6boGiU
 
 ### Explaination
 
-The two buttons on the left signify the ability to move left and right, shown by the LED display above it. 
-The two buttons on the right signify the ability to punch with the left and right hand, with a DC motor as tactile cue for when you punch.
-The potentiometer in the middle of the board signifies the block ability, with a lower powered LED and DC motor to let the player know the block is active
+- The two buttons on the left signify the ability to move left and right, shown by the LED display above it. Hooked directly into the LEDs with a resistor and getting power directly from the power supply
+- The two buttons on the right signify the ability to punch with the left and right hand, with a DC motor as tactile cue for when you punch. These are hooked up to the potentiometer which changes the power of the attack based on if the player is blocking attacks or not.
+- The potentiometer in the middle of the board signifies the block ability, with a lower powered LED and DC motor to let the player know the block is active. This is hooked up to the attack buttons and the DC motor by extention. This uses player input to determine if the attacks are being blocked or not.
+- 
