@@ -13,7 +13,8 @@ Export this as a pdf?
 ### Bill Of Materials
 [Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx](https://github.com/user-attachments/files/26870557/Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx)
 ### Section 2
-Ohms and stuff
+<img width="1118" height="469" alt="image" src="https://github.com/user-attachments/assets/ef5a068e-a7fb-471e-8ae4-09b4545b5be1" />
+
 ## Part 2
 
 ### Controller Creation
