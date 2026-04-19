@@ -8,16 +8,21 @@
 
 <img width="1061" height="725" alt="image" src="https://github.com/user-attachments/assets/dd3c94b2-ed61-4625-b0d6-30257acbfbb3" />
 
+Export this as a pdf?
+
 ### Bill Of Materials
 [Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx](https://github.com/user-attachments/files/26870557/Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx)
 ### Section 2
-
+Ohms and stuff
 ## Part 2
 
 ### Controller Creation
 
 <img width="1412" height="687" alt="image" src="https://github.com/user-attachments/assets/6ee4cbbf-995e-4145-9532-c5f5246119eb" />
 <img width="967" height="705" alt="image" src="https://github.com/user-attachments/assets/b37c4503-b3fa-45ea-8468-9df7586ae522" />
+
+### Simulation
+Video goes here
 
 ### Explaination
 
