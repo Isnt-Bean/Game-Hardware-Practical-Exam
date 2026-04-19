@@ -12,3 +12,15 @@
 [Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx](https://github.com/user-attachments/files/26870557/Final_Exam_Practical_2_12_PM_Apr_19_2026.xlsx)
 ### Section 2
 
+## Part 2
+
+### Controller Creation
+
+<img width="1412" height="687" alt="image" src="https://github.com/user-attachments/assets/6ee4cbbf-995e-4145-9532-c5f5246119eb" />
+<img width="967" height="705" alt="image" src="https://github.com/user-attachments/assets/b37c4503-b3fa-45ea-8468-9df7586ae522" />
+
+### Explaination
+
+The two buttons on the left signify the ability to move left and right, shown by the LED display above it. 
+The two buttons on the right signify the ability to punch with the left and right hand, with a DC motor as tactile cue for when you punch.
+The switch in the middle of the board signifies an ON/OFF switch, which allows the board to stop working if it's not clicked into position.
